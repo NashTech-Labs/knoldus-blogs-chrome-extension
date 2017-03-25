@@ -1,0 +1,10 @@
+{
+"manifest_version":2,
+"name":"Knoldus Blogs",
+"version":"1.0",
+"description":"Keep learning & keep sharing, one of the best place to learn latest technologies",
+"browser_action":{
+"default_icon":"images/icon.png",
+"default_popup":"extension.html"
+}
+}
